@@ -21,6 +21,6 @@ class PageController extends Controller
     {
         $posts = $post->all();
         dd($posts);
-        return view('pages.about');
+        return view('pages.blog');
     }
 }
