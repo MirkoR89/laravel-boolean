@@ -1,1 +1,1 @@
-@extends('partials.layout')
+@extends('layouts.layout')
